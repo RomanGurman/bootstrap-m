@@ -1,0 +1,16 @@
+nav {
+    background: none!important;
+    box-shadow: none;
+    
+}
+nav .brand-logo {
+    color: #e04b4b;
+    font-size: 1.35rem;
+    font-weight: 600;
+}
+nav ul a {
+    color: rgba(0, 0, 0, 9);
+}
+main {
+margin-top: 80px;
+}
